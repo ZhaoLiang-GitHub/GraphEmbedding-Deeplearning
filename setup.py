@@ -26,11 +26,11 @@ setuptools.setup(
 
     version="0.0.0",
 
-    author="Weichen Shen",
+    author="zhaoliang",
 
-    author_email="wcshen1994@163.com",
+    author_email="1318525510@qq.com",
 
-    url="https://github.com/shenweichen/GraphEmbedding",
+    url="https://github.com/ZhaoLiang-GitHub/GraphEmbedding-Deeplearning",
 
     packages=setuptools.find_packages(exclude=[]),
 
