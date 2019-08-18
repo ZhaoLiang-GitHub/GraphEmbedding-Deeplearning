@@ -19,7 +19,7 @@
   
   data/knowledgegraph_name/ 中应该含有两个文件，一个关系二元组,一个实体ID映射文件 
   
-5. models
+5. code
 
   模型文件，该文件是不对外暴露的，其内部参数也不需要修改，
   
